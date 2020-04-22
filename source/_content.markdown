@@ -63,7 +63,7 @@ order please).
 * [CareerJSM](https://careerjsm.com) - CareerJSM the best way for career centres to support students during a modern job search.
 * [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
-* [FinanceIt](https://www.financeit.ca/)
+* [Financeit](https://www.financeit.io/)
 * [FundThrough](https://www.fundthrough.com/)
 * [Info-Tech Research Group](https://www.infotech.com/)
 * [Joist](http://joistapp.com)
